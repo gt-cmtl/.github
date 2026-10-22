@@ -2,5 +2,5 @@
 
 Research, code, and resources from the CMTL at Georgia Tech.
 
-[Lab Website](https://cmtl.music.gatech.edu/)
+[Lab Website](https://cmtl.music.gatech.edu/) · [Docs](https://github.com/gt-cmtl/.github/tree/main/docs)
 

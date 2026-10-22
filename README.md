@@ -6,6 +6,8 @@ Edit [profile/README.md](profile/README.md) to update the organization's homepag
 
 ## Resources
 
+[Public docs](docs/README.md)
+
 [Customizing org profile](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile#adding-a-public-organization-profile-readme)
 
 [Default community health files](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)
