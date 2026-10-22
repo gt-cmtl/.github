@@ -1,6 +1,6 @@
-# Georgia Tech Creative Music Technology Lab
+![Creative Music Technology Lab](https://raw.githubusercontent.com/gt-cmtl/.github/main/assets/cmtl-banner.png)
 
-GitHub profile and shared contribution resources for the Creative Music Technology Lab at the Georgia Institute of Technology.
+Research, code, and resources from the CMTL at Georgia Tech.
 
 [Lab Website](https://cmtl.music.gatech.edu/)
 
